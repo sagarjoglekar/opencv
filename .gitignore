@@ -11,3 +11,7 @@ tegra/
 
 *.a
 build/*
+platforms/build_android_arm/*
+*.xcuserstate
+
+*.xcworkspacedata
